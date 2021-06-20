@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56e7c701-0ffc-49f8-b887-a733b69fbad1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/signUp.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styling.css" beforeDir="false" afterPath="$PROJECT_DIR$/styling.css" afterDir="false" />
@@ -14,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -33,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SmartC Frontend Learning/Bootstrap Learning/Template Website" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -48,8 +49,20 @@
       <updated>1623005484370</updated>
       <workItem from="1623005485602" duration="6619000" />
       <workItem from="1623056580430" duration="3395000" />
-      <workItem from="1623060983728" duration="4732000" />
+      <workItem from="1623060983728" duration="5685000" />
+      <workItem from="1623345268625" duration="625000" />
+      <workItem from="1623347804988" duration="1361000" />
+      <workItem from="1623650419524" duration="1497000" />
+      <workItem from="1624206686616" duration="1692000" />
     </task>
+    <task id="LOCAL-00001" summary="Commited">
+      <created>1623081159726</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623081159726</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,5 +78,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commited" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commited" />
   </component>
 </project>

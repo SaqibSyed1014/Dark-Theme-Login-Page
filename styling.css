@@ -5,7 +5,9 @@
 }
 body{
     height: 100vh;
-    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-image: url('img/bg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
@@ -16,10 +18,6 @@ img {
     object-fit: cover;
 }
 form{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     padding: 3rem;
     border-radius: 1rem;
     border: 3px solid black;
@@ -75,9 +73,10 @@ form{
 .form-control{
     color: white !important;
 }
-.forgetPass{
+a{
     color: white;
 }
-.forgetPass:hover{
-    color: black;
+a:hover{
+    color: white;
+    border-bottom: 1px solid white;
 }
